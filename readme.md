@@ -10,7 +10,7 @@ https://github.com/Lampese/SC-language/
 
 **Among the Jvav language, enjoy the strongest programming experience!**
 
-[![JQG0L8.png](https://s1.ax1x.com/2020/04/20/JQG0L8.png)](https://imgchr.com/i/JQG0L8)
+[![JQGWQ0.md.png](https://s1.ax1x.com/2020/04/20/JQGWQ0.md.png)](https://imgchr.com/i/JQGWQ0)
 
 JVAV is a powerful programming language that allows you to easily develop games, desktop programs, and even server-side programs and pages! jvav originated from the discovery of a pupil of a primary school student that changed the face of a computer program!
 
