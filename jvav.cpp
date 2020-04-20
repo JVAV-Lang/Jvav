@@ -21,7 +21,7 @@ int main(){
 		cin>>temp;
 		if(temp=="import"){
 			cin>>tem;
-			cout<<"#include<"<<tem<<">"<<endl;
+			cout<<"#include "<<tem<<endl;
 			continue;
 		}
 		if(temp=="using"){
