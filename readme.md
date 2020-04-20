@@ -1,5 +1,13 @@
 Email:dongdeng@Tr-Func.com
 
+**官方开发者文档**
+
+https://github.com/Lampese/SC-language/wiki
+
+**原始仓库**
+
+https://github.com/Lampese/SC-language/
+
 **Among the Jvav language, enjoy the strongest programming experience!**
 
 [![JmzC9S.jpg](https://s1.ax1x.com/2020/04/18/JmzC9S.jpg)](https://imgchr.com/i/JmzC9S)
