@@ -2,6 +2,10 @@
 
 Email:dongdeng@Tr-Func.com
 
+**官方网站**
+
+http://Lampese.com
+
 **官方开发者文档**
 
 https://github.com/Lampese/SC-language/wiki
