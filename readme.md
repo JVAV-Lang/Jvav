@@ -18,7 +18,7 @@ https://github.com/JVAV-Lang/Jvav/releases
 
 **我如何在Linux/Mac上使用?**
 
-我们为JFC发行版本提供了Install.sh，确保您安装了Gpp
+我们为JFC发行版本提供了Install.sh，确保您安装了Gpp，您也可以尝试我们在releases当中发布的Linux版本，编译的环境是CentOS 8，假如Linux releases无法运行，那么请自己使用G++编译，编译指令为:g++ jvav.cpp
 
 **JVAV发行版本有什么区别？**
 
