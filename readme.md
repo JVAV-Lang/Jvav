@@ -1,3 +1,5 @@
+**注意:这个编译器不是在开玩笑，您真的可以编写JVAV代码并编译为exe和Linux程序发行**
+
 Email:dongdeng@Tr-Func.com
 
 **官方开发者文档**
@@ -28,6 +30,3 @@ JVAV is a powerful programming language that allows you to easily develop games,
 
 This repository has the source code of the JVAV translator, and the compilation process is very simple.
 
-Our Web
-
-[JVAV](jvav.org)
