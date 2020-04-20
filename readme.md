@@ -18,7 +18,7 @@ https://github.com/JVAV-Lang/Jvav/releases
 
 我们为JFC发行版本提供了Install.sh，确保您安装了Gpp
 
-JVAV发行版本有什么区别？
+**JVAV发行版本有什么区别？**
 
 JVAV有两种发行版本，一种是JUB,一种是JFC,JUB发行版本为没有Function依赖的版本,适用于某些老版本的Gcc/Gpp编译器
 
