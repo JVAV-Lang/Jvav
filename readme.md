@@ -4,11 +4,11 @@ Email:dongdeng@Tr-Func.com
 
 **官方开发者文档**
 
-https://github.com/Lampese/SC-language/wiki
+https://github.com/JVAV-Lang/SC-language/wiki
 
 **原始仓库**
 
-https://github.com/Lampese/SC-language/
+https://github.com/JVAV-Lang/SC-language/
 
 **Among the Jvav language, enjoy the strongest programming experience!**
 
