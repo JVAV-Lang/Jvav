@@ -10,6 +10,10 @@ https://github.com/Lampese/SC-language/wiki
 
 https://github.com/Lampese/SC-language/
 
+**官方函数支持文档**
+
+https://github.com/JVAV-Lang/Jvav/wiki/JVAV%E5%AE%98%E6%96%B9%E5%87%BD%E6%95%B0%E5%BA%93
+
 **Among the Jvav language, enjoy the strongest programming experience!**
 
 **第一个发行版本(JUB/JFC)**
