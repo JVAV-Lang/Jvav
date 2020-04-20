@@ -18,8 +18,7 @@ This repository has the source code of the JVAV translator, and the compilation 
 
 Our Web
 
-[JVAV1](jvav.top)
-[JVAV2](jvav.org)
+[JVAV](jvav.org)
 
 Products written using JVAV
 
