@@ -12,7 +12,7 @@ https://github.com/Lampese/SC-language/
 
 **Among the Jvav language, enjoy the strongest programming experience!**
 
-**第一个Windows发行版本(JUB)**
+**第一个发行版本(JUB/JFC)**
 
 https://github.com/JVAV-Lang/Jvav/releases
 
@@ -23,6 +23,8 @@ https://github.com/JVAV-Lang/Jvav/releases
 **JVAV发行版本有什么区别？**
 
 JVAV有两种发行版本，一种是JUB,一种是JFC,JUB发行版本为没有Function依赖的版本,适用于某些老版本的Gcc/Gpp编译器
+
+同时，JFC目前只支持Linux，而Windows可以使用JUB
 
 [![JQGWQ0.md.png](https://s1.ax1x.com/2020/04/20/JQGWQ0.md.png)](https://imgchr.com/i/JQGWQ0)
 
