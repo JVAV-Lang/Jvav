@@ -1,0 +1,21 @@
+{
+    "Language":{
+        "Chinese":{
+            "这是什么?":"这是JVAV官方的图片库，有logo等图片",
+            "这个JSON做什么?":"中和文件,介绍用途XD"
+        },
+        "English":{
+            "what is this?":"This is the official JVAV picture library, there are pictures such as logo",
+            "What does this JSON do?":"Neutralization document, introduction XD"
+        }
+    },
+    "Files":{
+        "JVAV.png":{
+            "File_name":"JVAV",
+            "Type":"PNG",
+            "Where is it used":"Repository and promotion",
+            "Author":"Lampese",
+            "Copyright Information":"Free"
+        }
+    }
+}
