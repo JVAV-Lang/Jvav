@@ -1,15 +1,5 @@
 **注意:这个编译器不是在开玩笑，您真的可以编写JVAV代码并编译为exe和Linux程序发行**
 
-**假如您希望使用Jvav编写脚本，那么可以试试我们的新项目JvavScript**
-
-https://github.com/JVAV-Lang/JvavScript
-
-Email:dongdeng@Tr-Func.com
-
-**官方网站**
-
-http://Lampese.com
-
 **官方开发者文档**
 
 https://github.com/Lampese/SC-language/wiki
